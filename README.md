@@ -17,6 +17,8 @@
 <h3 align="left">Languages Used:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtephani3&show_icons=true&locale=en&layout=compact" alt="xtephani3" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
