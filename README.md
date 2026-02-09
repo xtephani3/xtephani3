@@ -10,6 +10,8 @@
 <p align="left">
 <a href="https://x.com/stephanieobi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xtephani3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stephanieobi-001-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="curtisese" height="30" width="40" /></a>
+
+  (My Portfolio)[https://linkedin.com/in/stephanieobi-001-]
 </p>
 
 
